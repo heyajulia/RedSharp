@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedSharp", "RedSharp\RedSharp.csproj", "{8D488D48-449E-4AC3-9EBC-AC357EB5D59A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedSharp.Tests", "RedSharp.Tests\RedSharp.Tests.csproj", "{6C067171-02AE-4D7F-8A58-E963D40A1D17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D488D48-449E-4AC3-9EBC-AC357EB5D59A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D488D48-449E-4AC3-9EBC-AC357EB5D59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D488D48-449E-4AC3-9EBC-AC357EB5D59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D488D48-449E-4AC3-9EBC-AC357EB5D59A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C067171-02AE-4D7F-8A58-E963D40A1D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C067171-02AE-4D7F-8A58-E963D40A1D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C067171-02AE-4D7F-8A58-E963D40A1D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C067171-02AE-4D7F-8A58-E963D40A1D17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using RedSharp;
+
+var message = "*-1\r\n"u8.ToArray();
+var array = Parser.Parse(message);
+Console.WriteLine(array == NullArray.Instance);
